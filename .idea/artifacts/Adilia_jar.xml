@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Adilia:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Adilia_jar</output-path>
+    <root id="archive" name="Adilia.jar">
+      <element id="module-output" name="Adilia" />
+    </root>
+  </artifact>
+</component>
